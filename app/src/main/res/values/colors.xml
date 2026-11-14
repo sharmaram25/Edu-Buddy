@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Notification accent (tints the small icon) -->
+    <color name="brand_primary">#FFF2542D</color>
+    <color name="brand_splash">#FF131312</color>
+    <color name="window_bg">#FFF6F5F1</color>
+</resources>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="96" height="96" role="img" aria-label="EduBuddy">
+  <rect width="108" height="108" rx="26" fill="#131312"/>
+  <path fill="#F6F5F1" d="M41,33 H65 A5,5 0 0 1 65,43 H46 V65 H65 A5,5 0 0 1 65,75 H41 A5,5 0 0 1 36,70 V38 A5,5 0 0 1 41,33 Z"/>
+  <circle cx="63" cy="54" r="6" fill="#F2542D"/>
+</svg>
